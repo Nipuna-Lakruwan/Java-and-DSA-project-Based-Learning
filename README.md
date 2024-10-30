@@ -96,8 +96,8 @@ This project is licensed under the [MIT License](LICENSE), permitting free use, 
 
 For questions, suggestions, or collaboration, feel free to reach out:
 
-- **GitHub**: [yourusername](https://github.com/Nipuna-Lakruwan)
-- **Email**: [your.email@example.com](mailto:your.senarath.lakruwan.com)
+- **GitHub**: [Nipuna Lakruwan](https://github.com/Nipuna-Lakruwan)
+- **Email**: [senarath.lakruwan@gmail.com](mailto:your.senarath.lakruwan.com)
 
 Happy coding!
 
